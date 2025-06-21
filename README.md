@@ -1,4 +1,4 @@
-# Our-Bro
+# WeatherBadge
 
 **WeatherBadge** is a compact, low-power wearable badge that senses and displays real-time temperature using a digital sensor and shows it on a stylish **OLED screen**. Built using the lightweight **ATtiny85 microcontroller,** this device is powered by a coin cell battery and designed to be worn like a name badge or keychain.
 
