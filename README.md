@@ -48,6 +48,8 @@ How to design a 3D-printable case for electronics
 
 # Code
 
+https://github.com/Coervibe/Our-Bro/blob/main/code/code.ino
+
 # BOM
 
 | Product Name | Retailer | Price ($) |
