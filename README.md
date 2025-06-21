@@ -5,9 +5,12 @@
 The display scrolls your name or custom message along with the current ambient temperature in Celsius. It’s simple, elegant, and fun — a perfect conversation starter and beginner-friendly embedded hardware project.
 
 ## Why I Made This Project:
+
 I wanted to build something cool, small, and functional that I could wear — something that uses real sensors, displays data visually, and can be powered by a single coin cell. Inspired by smart badges and DIY electronics, I decided to create this WeatherBadge for Hack Club’s Highway, combining design, electronics, and creativity.
 
+
 ## 🔧 Features:
+
 🌡️ Displays live temperature using a DHT11 sensor
 
 🖥️ 0.96” OLED screen (SSD1306 I2C)
@@ -20,6 +23,7 @@ I wanted to build something cool, small, and functional that I could wear — so
 
 🛠️ Custom PCB and 3D printed case
 
+
 ## It helped me learn:
 
 How to design a schematic and PCB in EasyEDA
@@ -31,28 +35,31 @@ How to flash code on ATtiny85
 How to design a 3D-printable case for electronics
 
 # Schematic,PCB and CAD
+
 ![image](https://github.com/Coervibe/Our-Bro/blob/main/pcb/schematic.png)
+
 ![image](https://github.com/Coervibe/Our-Bro/blob/main/pcb/3d%20pcb.png)
+
 ![image](https://github.com/Coervibe/Our-Bro/blob/main/pcb/pcb.png)
+
 ![image](https://github.com/Coervibe/Our-Bro/blob/main/cad/case1.png)
+
 ![image](https://github.com/Coervibe/Our-Bro/blob/main/cad/case2.png)
 
 # Code
 
 # BOM
----
-Product Name,Retailer,Unit Price ($),Quantity,Total Price ($)
-ATtiny85 DIP-8,Amazon,3.00,1,3.00
-DHT11 Temperature Sensor,Amazon,2.00,1,2.00
-"OLED 0.96"" SSD1306 Display",Amazon,3.50,1,3.50
-CR2032 Coin Cell + Holder,Amazon,1.50,1,1.50
-10K Resistor,Amazon,0.10,1,0.10
-100nF Capacitor,Amazon,0.10,1,0.10
-PCB (custom),JLCPCB,2.00,1,2.00
-Shipping (Amazon items),Amazon,3.50,,3.50
-Shipping (JLCPCB),JLCPCB,5.00,,5.00
-3D Printed Case (PLA),Local/Online,2.00,1,2.00
-Subtotal,,,,22.70
-Tax Estimate (5%),,,,1.14
-Total Estimated Cost,,,,23.84
 
+| Product Name | Retailer | Price ($) |
+| --- | --- | --- |
+| ATtiny85 DIP-8 | Amazon | 3.00 |
+| DHT11 Temperature Sensor | Amazon | 2.00 |
+| OLED 0.96" SSD1306 Display | Amazon | 3.50 |
+| CR2032 Coin Cell + Holder | Amazon | 1.50 |
+| 10K Resistor | Amazon | 0.10 |
+| 100nF Capacitor | Amazon | 0.10 |
+| PCB (custom) | JLCPCB | 2.00 |
+| Shipping (Amazon items) | Amazon | 3.50 |
+| Shipping (JLCPCB) | JLCPCB | 5.00 |
+| 3D Printed Case (PLA) | Local/Online | 2.00 |
+| **Total Estimated Cost** | **—** | **23.84** |
