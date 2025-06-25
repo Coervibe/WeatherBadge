@@ -9,19 +9,19 @@ The display scrolls your name or custom message along with the current ambient t
 I wanted to build something cool, small, and functional that I could wear — something that uses real sensors, displays data visually, and can be powered by a single coin cell. Inspired by smart badges and DIY electronics, I decided to create this WeatherBadge for Hack Club’s Highway, combining design, electronics, and creativity.
 
 
-## 🔧 Features:
+## Features:
 
-🌡️ Displays live temperature using a DHT11 sensor
+-Displays live temperature using a DHT11 sensor
 
-🖥️ 0.96” OLED screen (SSD1306 I2C)
+-0.96” OLED screen (SSD1306 I2C)
 
-🔋 Powered by CR2032 coin cell
+-Powered by CR2032 coin cell
 
-👕 Wearable form factor (badge/keychain)
+-Wearable form factor (badge/keychain)
 
-🧠 Microcontroller: ATtiny85 (DIP-8)
+-Microcontroller: ATtiny85 (DIP-8)
 
-🛠️ Custom PCB and 3D printed case
+- Custom PCB and 3D printed case
 
 
 ## It helped me learn:
