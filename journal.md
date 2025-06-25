@@ -9,11 +9,9 @@ created_at: "2025-19-06"
 ### 📅 Date: june 21, 2025  
 **Time Spent:** 1 hour  
 **What I Did:**  
-- Brainstormed ideas for a wearable electronics project.  
-- Finalized the concept of a smart badge that displays temperature and name.  
+- think a lot  ideas for a wearable electronics project.  
+- and i have done to make   a smart badge that displays temperature and name.  
 - Decided to use ATtiny85 for minimal power usage and learning experience.
-
-📸 *No visuals yet*
 
 ---
 
@@ -24,8 +22,7 @@ created_at: "2025-19-06"
 **What I Did:**
 - take a lot of time  beacause first learn how to make it.
 - Created initial schematic in EasyEDA using ATtiny85, DHT11, OLED display, and coin cell.  
-- Added pull-up resistor and capacitor for sensor stability.  
-- Verified pinout for ATtiny85 with I2C OLED.
+- make connection as shown
 
 📸 Screenshot:  
 ![image](https://github.com/Coervibe/Our-Bro/blob/main/pcb/schematic.png)
@@ -35,9 +32,8 @@ created_at: "2025-19-06"
 ### 📅 Date: june 19, 2025  
 **Time Spent:** 2 hours  
 **What I Did:**  
-- Completed PCB layout and component placement in EasyEDA.  
-- Exported Gerber files for JLCPCB.  
-- Uploaded files and generated preview.
+- Completed PCB layout and component .  
+- and export files
 
 📸 Screenshot:  
 ![image](https://github.com/Coervibe/Our-Bro/blob/main/pcb/pcb.png)
@@ -48,9 +44,7 @@ created_at: "2025-19-06"
 ### 📅 Date: june 20, 2025  
 **Time Spent:** 3 hours  
 **What I Did:**  
-- Designed a 3D case in Tinkercad to house the badge.  
-- Added space for OLED, sensor holes, and battery holder.  
-- Exported and sliced STL for 3D printing.
+- Designed a 3D case .  
 
 📸 Screenshot:  
 ![image](https://github.com/Coervibe/Our-Bro/blob/main/cad/case1.png)
@@ -61,9 +55,9 @@ created_at: "2025-19-06"
 ### 📅 Date: june 21, 2025  
 **Time Spent:** 3 hours  
 **What I Did:**  
-- Wrote and tested advanced code using TinyWireM, Tiny4kOLED, and DHT libraries.  
-- Added scrolling text and dynamic temperature update.  
-- Flashed using USBasp programmer with Arduino IDE.
+- Wrote and tested advanced code for the project.  
+- Added scrolling text and dynamic temperature update.
+- code:
 https://github.com/Coervibe/Our-Bro/blob/main/code/code.ino
 
 
